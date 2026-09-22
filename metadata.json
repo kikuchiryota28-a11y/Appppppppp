@@ -1,0 +1,7 @@
+{
+  "name": "Creator Finder",
+  "description": "Build your creator stack. Discover the right tools for what you are trying to make.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
